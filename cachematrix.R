@@ -28,6 +28,6 @@ data <- x
         $get()
         i <- solve(data,...)
         x
-        $setreverse(i)
+        $setinverse(i)
         i
 }
